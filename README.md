@@ -1,13 +1,12 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+👀 Jogo da Memória - Javascript
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um jogo da memória com a temática de Super Mario! 
+🎮️ Sobre
+O projeto é um jogo da memória que foi criado dentro do curso de Fundamentos de JavaScript com o intuito de colocar em prática todo o conteúdo estudado durate o curso da DIO.
 
-### Os requisitos são:
+👨‍💻️ Tecnogias utilizadas
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
- 
+💻️Javascript
+💻️Visual Studio Code
 
-
-## 🚀 Let's code! 🚀
+Feito com ❤️ por hellenmassolin 👋️
